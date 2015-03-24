@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="game.libretro.virtualjaguar"
+		name="Jaguar (virtualjaguar)"
+		version="2.1.0"
+		provider-name="Libretro">
+	<requires>
+		<import addon="game.libretro" version="1.0.0"/>
+	</requires>
+	<extension point="kodi.gameclient"
+			library_android="game.libretro.virtualjaguar.so"
+			library_linux="game.libretro.virtualjaguar.so"
+			library_osx="game.libretro.virtualjaguar.dylib"
+			library_windx="game.libretro.virtualjaguar.dll"
+			library_wingl="game.libretro.virtualjaguar.dll">
+		<platforms>Jaguar</platforms>
+		<extensions>jag</extensions>
+		<supports_vfs>true</supports_vfs>
+		<supports_no_game>false</supports_no_game>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">VirtualJaguar v2.1.0</summary>
+		<description>Source: https://github.com/libretro/virtualjaguar-libretro</description>
+		<platform>all</platform>
+	</extension>
+</addon>
