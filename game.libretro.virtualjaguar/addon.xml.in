@@ -20,5 +20,10 @@
 		<description>Supported files: .j64, .jag</description>
 		<license>GPLv3</license>
 		<platform>@PLATFORM@</platform>
+		<assets>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
+			<screenshot>resources/screenshot-02.jpg</screenshot>
+			<screenshot>resources/screenshot-03.jpg</screenshot>
+		</assets>
 	</extension>
 </addon>
