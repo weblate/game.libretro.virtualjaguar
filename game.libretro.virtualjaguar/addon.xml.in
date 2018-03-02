@@ -15,8 +15,8 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Atari - Jaguar (Virtual Jaguar) v2.1.0</summary>
-		<description>Virtual Jaguar is an emulator for the Atari Jaguar video game console.
+		<summary lang="en_GB">Atari - Jaguar (Virtual Jaguar) v2.1.0</summary>
+		<description lang="en_GB">Virtual Jaguar is an emulator for the Atari Jaguar video game console.
 
 Based on code released by David Raingeard (Cal2) of what used to be Potato Emulation.
 
