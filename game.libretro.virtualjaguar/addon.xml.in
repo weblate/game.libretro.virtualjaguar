@@ -23,6 +23,7 @@ Based on code released by David Raingeard (Cal2) of what used to be Potato Emula
 Supported files: .j64, .jag</description>
 		<license>GPLv3</license>
 		<platform>@PLATFORM@</platform>
+		<source>https://github.com/kodi-game/game.libretro.virtualjaguar</source>
 		<assets>
 			<icon>resources/icon.png</icon>
 			<screenshot>resources/screenshot-01.jpg</screenshot>
