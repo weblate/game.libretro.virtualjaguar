@@ -35,4 +35,3 @@ msgstr ""
 msgctxt "#30004"
 msgid "Fast Blitter"
 msgstr ""
-
