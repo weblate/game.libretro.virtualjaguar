@@ -4,7 +4,7 @@ Maintainer: wsnipex <wsnipex@a1.net>
 Build-Depends: debhelper (>= 9.0.0),
                cmake,
                kodi-addon-dev,
-               virtualjaguar (>= 2.1.0)
+               libretro-virtualjaguar (>= 2.1.0) | virtualjaguar (>= 2.1.0)
 Standards-Version: 3.9.8
 Section: libs
 
