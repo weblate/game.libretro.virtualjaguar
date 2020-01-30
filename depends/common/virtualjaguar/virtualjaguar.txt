@@ -1,1 +1,1 @@
-virtualjaguar https://github.com/libretro/virtualjaguar-libretro/archive/c95606aeb52c71456fac3c19312cf4705a27d1a4.zip
+virtualjaguar https://github.com/libretro/virtualjaguar-libretro/archive/a162fb75926f5509f187e9bfc69958bced40b0a6.zip
