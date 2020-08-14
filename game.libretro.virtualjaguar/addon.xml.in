@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.virtualjaguar"
 		name="Atari - Jaguar (Virtual Jaguar)"
-		version="2.1.0.8"
-		provider-name="Libretro">
+		version="2.1.0.9"
+		provider-name="David Raingeard, Shamus">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 		<import addon="game.controller.default" version="1.0.0"/>
